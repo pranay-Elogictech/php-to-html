@@ -96,6 +96,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li>Redundant ports and I/Os.<br>Limited number of standard industrial output formats.</li>
           <li>•No high voltage / ground loop protection.</li>
         </ul>
+        <ul style="margin-top :1rem;">
+          <li>Power requirements were externally <br>accommodated using off the shelf components</li>
+          <li>Redundant ports and I/Os.<br>Limited number of standard industrial output formats.</li>
+          <li>•No high voltage / ground loop protection.</li>
+        </ul>
+        <ul style="margin-top :1rem;">
+          <li>Power requirements were externally <br>accommodated using off the shelf components</li>
+          <li>Redundant ports and I/Os.<br>Limited number of standard industrial output formats.</li>
+          <li>•No high voltage / ground loop protection.</li>
+        </ul>
+        <ul style="margin-top :1rem;">
+          <li>Power requirements were externally <br>accommodated using off the shelf components</li>
+          <li>Redundant ports and I/Os.<br>Limited number of standard industrial output formats.</li>
+          <li>•No high voltage / ground loop protection.</li>
+        </ul>
           </div>
         </div>
         <div id="w-node-_6c7c65ac-597c-402c-4e23-ca80574d6a89-dad4ff97" class="chlng_grid_right wow animate__animated animate__fadeIn" data-wow-delay="0.2s"><img src="https://i.ebayimg.com/images/g/TWIAAOSwSwVhZpqP/s-l500.jpg" loading="lazy" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 1919px) 96vw, 1200px" srcset="https://i.ebayimg.com/images/g/TWIAAOSwSwVhZpqP/s-l500.jpg 500w, https://i.ebayimg.com/images/g/TWIAAOSwSwVhZpqP/s-l500.jpg 590w" alt="" class="cstudy_chlng_img"></div>

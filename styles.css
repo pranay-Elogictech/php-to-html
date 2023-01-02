@@ -1,0 +1,133 @@
+.logo{
+    width: 210px;
+    height:75px;
+}
+@media screen  and (max-width:700px) {
+    .logo{
+        width: 100px;
+        height:45px;
+    }
+   .nav_wrapper{
+    padding: 0.7rem;
+   }
+   
+}
+.linkedin-logo{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+@media screen and  (min-width:400px) {
+    .process_img{
+    display: none;
+    height: 50%;
+    width: 40%;
+    padding-top: 2rem;
+}
+}
+
+.process_img{
+    height: 50%;
+    width: 40%;
+    padding-top: 2rem;
+    margin-left: 12rem;
+    margin-top: 4rem;
+}
+@media  screen and (min-width:900px) {
+    .process_img{
+        display: block;        
+    }
+}
+
+.sticky{
+     
+    background-color:#051f49 !important ;
+}
+
+.image-con{
+    display: flex;
+    justify-content: flex-start;
+   padding: 0ch;
+    margin: 0%;
+
+}
+
+
+.top_img_ovrlay {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.body_holder {
+    overflow-x: hidden;
+}
+
+
+.menu_link_item::last-child::after {
+	display: none;
+}
+.menu_link_item.w--current .menu_txt {
+	color: #ffffff !important;
+}
+  .menu_link_item::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(180deg, rgba(38, 100, 210, 0) 0%, #2664D2 51.04%, rgba(38, 100, 210, 0) 100%);
+  }
+  .menu_link_item.no_border::after {
+    display: none;
+  }
+  .menu_overlay_img {
+  	transition: all 0.5s ease;
+  }
+  .menu_modal.show .menu_overlay_img {
+  	bottom: 0%;
+  }
+  .menu_link_item {
+  	transition: all 0.2s ease;
+  }
+  .menu_link_item .menu_txt {
+  	transition: all 0.2s ease;
+  }
+  .menu_link_item:hover .menu_txt {
+  	color: rgba(255,255,255,1)
+  }
+  @media (max-width: 767px) {
+  	.menu_link_item::after {
+      content: '';
+      position: absolute;
+      right: 0;
+      top: unset;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background: linear-gradient(90deg, rgba(38, 100, 210, 0) 0%, #2664D2 51.04%, rgba(38, 100, 210, 0) 100%);
+    }
+  }
+
+
+  .process_image{
+    height: 60%;
+    width: 40%;
+    margin-top: 18rem;
+  }
+
+  @media screen and(min-width:1000) {
+    .process_image{
+        width: 40%;
+        background-position: center;
+      }
+  }
